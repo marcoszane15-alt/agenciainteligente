@@ -1,0 +1,126 @@
+# 📥 GUIA COMPLETO - Como Baixar Seu Site
+
+## 🎯 MÉTODO MAIS FÁCIL - Arquivo HTML Único
+
+### PASSO 1: Abrir o Editor de Texto
+- **Windows:** Abra o "Bloco de Notas" (Notepad)
+  - Aperte a tecla Windows
+  - Digite "Bloco de Notas"
+  - Clique para abrir
+
+- **Mac:** Abra o "TextEdit"
+  - Cmd + Espaço
+  - Digite "TextEdit"
+  - Clique para abrir
+
+### PASSO 2: Copiar o Código
+1. Volte para a conversa aqui no Claude
+2. Procure o artefato chamado **"Site Agência Inteligente - HTML Único"**
+3. No canto superior direito do artefato, clique nos 3 pontinhos (⋮)
+4. Clique em "Copy code" ou "Copiar código"
+5. Todo o código será copiado!
+
+### PASSO 3: Colar no Editor
+1. Volte para o Bloco de Notas/TextEdit
+2. Cole o código (Ctrl+V no Windows ou Cmd+V no Mac)
+3. Você verá todo o código HTML aparecer
+
+### PASSO 4: Salvar o Arquivo
+**IMPORTANTE: Siga exatamente estas instruções!**
+
+#### No Windows (Bloco de Notas):
+1. Clique em "Arquivo" → "Salvar Como"
+2. Em "Nome do arquivo", digite: `agencia-inteligente.html`
+3. Em "Tipo", selecione: **"Todos os arquivos (*.*)"**
+4. Escolha onde salvar (pode ser na Área de Trabalho)
+5. Clique em "Salvar"
+
+#### No Mac (TextEdit):
+1. Clique em "Arquivo" → "Salvar"
+2. Digite o nome: `agencia-inteligente.html`
+3. Escolha onde salvar (pode ser na Área de Trabalho)
+4. Clique em "Salvar"
+
+### PASSO 5: Abrir o Site
+1. Vá até onde você salvou o arquivo
+2. Dê **duplo clique** no arquivo `agencia-inteligente.html`
+3. O site abrirá automaticamente no seu navegador! 🎉
+
+---
+
+## 🎨 O QUE VOCÊ VAI VER:
+
+✅ Site com fundo preto e vermelho escuro
+✅ Texto em cores: branco, roxo, vermelho e azul
+✅ Cards organizados em colunas
+✅ Descrição completa de cada serviço
+✅ Botão "Adicionar ao Pedido" em cada card
+✅ Carrinho que mostra os itens selecionados
+✅ Botão verde "Enviar Pedido via WhatsApp"
+
+---
+
+## 🔧 SE DER ERRO:
+
+### Erro: "Arquivo não abre no navegador"
+**Solução:**
+1. Clique com botão direito no arquivo
+2. Escolha "Abrir com"
+3. Selecione seu navegador (Chrome, Firefox, Edge, Safari)
+
+### Erro: "Código aparece como texto"
+**Solução:**
+- Você não salvou com a extensão .html correta
+- Refaça o PASSO 4, garantindo que o nome termine em .html
+- No Windows, certifique-se de selecionar "Todos os arquivos"
+
+### Erro: "Site não funciona corretamente"
+**Solução:**
+- Você precisa estar conectado à internet
+- O site usa bibliotecas online (React, Tailwind)
+- Certifique-se de ter conexão com a internet
+
+---
+
+## 📱 TESTAR O WHATSAPP:
+
+1. Adicione alguns serviços ao carrinho
+2. Clique no botão verde "Enviar Pedido via WhatsApp"
+3. Vai abrir o WhatsApp Web/App com a mensagem pronta
+4. Basta clicar em "Enviar" no WhatsApp!
+
+---
+
+## 💾 OPÇÃO ALTERNATIVA - Salvar Direto do Navegador:
+
+Se você está vendo o site funcionando no artefato aqui:
+
+1. Clique nos 3 pontinhos (⋮) no canto do artefato
+2. Procure opção "Download" ou "Baixar"
+3. Se disponível, o arquivo será baixado automaticamente
+4. Vá na pasta "Downloads" e abra o arquivo
+
+---
+
+## ❓ AINDA COM DÚVIDAS?
+
+Me diga em qual passo você está tendo dificuldade:
+- [ ] Não consegui copiar o código
+- [ ] Não sei onde colar
+- [ ] Não sei como salvar como .html
+- [ ] O arquivo não abre
+- [ ] Outro problema
+
+**Descreva o problema e eu te ajudo a resolver!** 💪
+
+---
+
+## 🎁 BÔNUS - Personalizar depois:
+
+Depois que o site estiver funcionando, você pode:
+- Mudar preços (procure os valores no código)
+- Mudar textos (encontre e substitua)
+- Mudar cores (procure por "red", "purple", "blue")
+- Mudar o número do WhatsApp (procure por "5515996520809")
+
+**Tudo dentro do mesmo arquivo .html!**
